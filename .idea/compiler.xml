@@ -7,11 +7,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="_20180919" />
+        <module name="_20180921" />
         <module name="struts4" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="_20180919" target="1.7" />
+      <module name="_20180921" target="1.7" />
       <module name="struts4" target="1.7" />
     </bytecodeTargetLevel>
   </component>
