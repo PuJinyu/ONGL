@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../_20180919/_20180919.iml" filepath="$PROJECT_DIR$/../_20180919/_20180919.iml" />
       <module fileurl="file://$PROJECT_DIR$/../_20180921/_20180921.iml" filepath="$PROJECT_DIR$/../_20180921/_20180921.iml" />
-      <module fileurl="file://$PROJECT_DIR$/struts4.iml" filepath="$PROJECT_DIR$/struts4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../20180926/_20180926.iml" filepath="$PROJECT_DIR$/../20180926/_20180926.iml" />
       <module fileurl="file://$PROJECT_DIR$/struts4.iml" filepath="$PROJECT_DIR$/struts4.iml" />
     </modules>
   </component>
