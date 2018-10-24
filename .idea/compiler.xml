@@ -11,6 +11,7 @@
         <module name="_20180926" />
         <module name="_20180928" />
         <module name="_20180930" />
+        <module name="cneducap" />
         <module name="struts4" />
       </profile>
     </annotationProcessing>
@@ -20,6 +21,7 @@
       <module name="_20180926" target="1.7" />
       <module name="_20180928" target="1.7" />
       <module name="_20180930" target="1.7" />
+      <module name="cneducap" target="1.5" />
       <module name="struts4" target="1.7" />
     </bytecodeTargetLevel>
   </component>

@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/../20180926/_20180926.iml" filepath="$PROJECT_DIR$/../20180926/_20180926.iml" />
       <module fileurl="file://$PROJECT_DIR$/../_20180928/_20180928.iml" filepath="$PROJECT_DIR$/../_20180928/_20180928.iml" />
       <module fileurl="file://$PROJECT_DIR$/../_20180930/_20180930.iml" filepath="$PROJECT_DIR$/../_20180930/_20180930.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cneducap/cneducap.iml" filepath="$PROJECT_DIR$/cneducap/cneducap.iml" />
       <module fileurl="file://$PROJECT_DIR$/struts4.iml" filepath="$PROJECT_DIR$/struts4.iml" />
     </modules>
   </component>
