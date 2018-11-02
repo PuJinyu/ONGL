@@ -6,6 +6,9 @@
         <element id="directory" name="classes">
           <element id="module-output" name="_20180930" />
         </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: org.hamcrest:hamcrest-core:1.3" />
+        </element>
       </element>
       <element id="directory" name="META-INF">
         <element id="file-copy" path="$PROJECT_DIR$/../_20180930/target/20180930/META-INF/MANIFEST.MF" />
