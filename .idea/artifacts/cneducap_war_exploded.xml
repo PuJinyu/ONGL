@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="cneducap:war exploded">
+    <output-path>$PROJECT_DIR$/cneducap/target/cn.edu.cap</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="cneducap" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/cneducap/target/cn.edu.cap/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="cneducap/web/Web" />
+    </root>
+  </artifact>
+</component>
